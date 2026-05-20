@@ -5,3 +5,4 @@ pandas
 numpy
 langchain_groq
 dotenv
+langgraph
